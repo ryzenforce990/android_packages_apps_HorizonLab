@@ -130,5 +130,9 @@
     <string name="qs_colored_icons_title">Colored QS notification icons</string>
     <string name="qs_colored_icons_summary">Show colored app icon instead of monochrome icons</string>
 
-</resources>
+    <!-- Custom settings dashboard style -->
+    <string name="settings_dashboard_style_title">Settings Styles</string>
+    <string name="settings_dashboard_style_summary">Change the dashboard settings UI</string>
+    <string name="settings_dashboard_style_1">AOSP Style</string>
+    <string name="settings_dashboard_style_2">Horizon Style</string>
 </resources> 

@@ -46,4 +46,67 @@
                 android:data="https://github.com/HorizonDroidLab" />
         </Preference>
 
+    <PreferenceCategory
+        android:key="about_developer"
+        android:title="@string/hz_about_dev" />
+
+        <Preference
+            android:title="@string/hz_about_kizziama"
+            android:summary="@string/hz_about_kizziama_summary"
+            android:icon="@drawable/kizziama"
+            settings:layout="@layout/hz_about">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="https://t.me/Kizziama" />
+        </Preference>
+
+        <Preference
+            android:title="@string/hz_about_hefatss"
+            android:summary="@string/hz_about_hefatss_summary"
+            android:icon="@drawable/hefatss"
+            settings:layout="@layout/hz_about">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="https://t.me/hefatss" />
+        </Preference>
+
+     <PreferenceCategory
+        android:key="hz_designer_team"
+        android:title="@string/hz_about_design" />
+
+        <Preference
+            android:title="@string/hz_about_binzet"
+            android:summary="@string/hz_about_binzet_summary"
+            android:icon="@drawable/binzet"
+            settings:layout="@layout/hz_about">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="https://t.me/binzetskrrt" />
+        </Preference>
+
+
+    <PreferenceCategory
+        android:key="hz_maintainer_team"
+        android:title="@string/hz_maintainer_team" />
+
+        <Preference
+            android:title="@string/hz_about_ido"
+            android:summary="@string/hz_about_ido_summary"
+            android:icon="@drawable/ido"
+            settings:layout="@layout/hz_about">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="https://t.me/rthedream" />
+        </Preference>
+
+        <Preference
+            android:title="@string/hz_about_dropto"
+            android:summary="@string/hz_about_dropto_summary"
+            android:icon="@drawable/dropto"
+            settings:layout="@layout/hz_about">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="https://t.me/Dr_Opto" />
+        </Preference>
+
 </PreferenceScreen>

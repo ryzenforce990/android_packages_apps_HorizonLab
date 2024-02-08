@@ -56,6 +56,25 @@
     <string name="hz_github_summary">Check out our GitHub</string>
     <string name="hz_about_info_summary">HorizonDroid is a Custoom ROM with minimal usefull features.</string>
 
+    <!-- About Develover -->
+    <string name="hz_about_dev">Developer</string>
+    <string name="hz_about_kizziama" translatable="false">Kizziama</string>
+    <string name="hz_about_kizziama_summary">Core Developer</string>
+    <string name="hz_about_hefatss" translatable="false">Hefatss</string>
+    <string name="hz_about_hefatss_summary">Core Developer | Redmi Note 12 NFC Maintainer</string>
+
+    <!-- About Designer -->
+    <string name="hz_about_design">Designer</string>
+    <string name="hz_about_binzet" translatable="false">Binzet</string>
+    <string name="hz_about_binzet_summary">Designer</string>
+
+    <!-- About Maintainer -->
+    <string name="hz_maintainer_team">Maintainers</string>
+    <string name="hz_about_ido" translatable="false">Ido</string>
+    <string name="hz_about_ido_summary">Redmi Note 10s / Rosemary</string>
+    <string name="hz_about_dropto" translatable="false">Dr.Opto</string>
+    <string name="hz_about_dropto_summary">Redmi Note 12 5G / Poco x5 5G /Redmi Note 12R | stone</string>
+
     <!-- Network traffic -->
     <string name="network_traffic_state_title">Network traffic indicator</string>
     <string name="network_traffic_state_summary">Enable or disable network speed indicator in status bar</string>

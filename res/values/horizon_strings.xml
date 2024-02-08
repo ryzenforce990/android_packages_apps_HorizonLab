@@ -46,6 +46,16 @@
     <!-- Category: Notifications-->
     <string name="category_notif_title">Notifications</string>
 
+    <!-- About HorizonDroid -->
+    <string name="hz_about_title">About HorizonDroid</string>
+    <string name="hz_about_summary">Everything about us.</string>
+    <string name="hz_about_link">Visit and join</string>
+    <string name="hz_telegram_title" translatable="false">Telegram</string>
+    <string name="hz_telegram_summary">Join our community chat</string>
+    <string name="hz_github_title" translatable="false">GitHub</string>
+    <string name="hz_github_summary">Check out our GitHub</string>
+    <string name="hz_about_info_summary">HorizonDroid is a Custoom ROM with minimal usefull features.</string>
+
     <!-- Network traffic -->
     <string name="network_traffic_state_title">Network traffic indicator</string>
     <string name="network_traffic_state_summary">Enable or disable network speed indicator in status bar</string>

@@ -17,4 +17,33 @@
     xmlns:settings="http://schemas.android.com/apk/res/com.android.settings"
     android:title="About Team" >
 
+    <com.android.settingslib.widget.LayoutPreference
+        android:layout="@layout/hz_logo_about"
+        android:key="hz_logo_about"
+        android:selectable="false" />
+
+    <PreferenceCategory
+        android:key="hz_about_link"
+        android:title="@string/hz_about_link" />
+
+        <Preference
+            android:title="@string/hz_telegram_title"
+            android:summary="@string/hz_telegram_summary"
+            settings:layout="@layout/hz_about_link"
+            android:icon="@drawable/ic_telegram">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="https://t.me/horizondroidchatroom" />
+        </Preference>
+
+        <Preference
+            android:title="@string/hz_github_title"
+            android:summary="@string/hz_github_summary"
+            settings:layout="@layout/hz_about_link"
+            android:icon="@drawable/ic_github">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="https://github.com/HorizonDroidLab" />
+        </Preference>
+
 </PreferenceScreen>

@@ -51,6 +51,36 @@
         android:title="@string/hz_about_dev" />
 
         <Preference
+            android:title="@string/hz_about_superxorn"
+            android:summary="@string/hz_about_superxorn_summary"
+            android:icon="@drawable/superxorn"
+            settings:layout="@layout/hz_about">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="https://t.me/superxorn" />
+        </Preference>
+
+        <Preference
+            android:title="@string/hz_about_steve"
+            android:summary="@string/hz_about_steve_summary"
+            android:icon="@drawable/steve"
+            settings:layout="@layout/hz_about">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="https://t.me/Aftershock990" />
+        </Preference>
+
+        <Preference
+            android:title="@string/hz_about_jyr"
+            android:summary="@string/hz_about_jyr_summary"
+            android:icon="@drawable/jyr"
+            settings:layout="@layout/hz_about">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="https://t.me/JYR_RC" />
+        </Preference>
+
+        <Preference
             android:title="@string/hz_about_kizziama"
             android:summary="@string/hz_about_kizziama_summary"
             android:icon="@drawable/kizziama"
@@ -58,6 +88,26 @@
             <intent
                 android:action="android.intent.action.VIEW"
                 android:data="https://t.me/Kizziama" />
+        </Preference>
+
+        <Preference
+            android:title="@string/hz_about_dblenk"
+            android:summary="@string/hz_about_dblenk_summary"
+            android:icon="@drawable/dblenk"
+            settings:layout="@layout/hz_about">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="https://t.me/dblenk9" />
+        </Preference>
+
+        <Preference
+            android:title="@string/hz_about_komaru"
+            android:summary="@string/hz_about_komaru_summary"
+            android:icon="@drawable/komaru"
+            settings:layout="@layout/hz_about">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="https://t.me/isaiahscape" />
         </Preference>
 
         <Preference
@@ -75,6 +125,16 @@
         android:title="@string/hz_about_design" />
 
         <Preference
+            android:title="@string/hz_about_zamkara"
+            android:summary="@string/hz_about_zamkara_summary"
+            android:icon="@drawable/zamkara"
+            settings:layout="@layout/hz_about">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="https://t.me/directokara" />
+        </Preference>
+
+        <Preference
             android:title="@string/hz_about_binzet"
             android:summary="@string/hz_about_binzet_summary"
             android:icon="@drawable/binzet"
@@ -90,6 +150,26 @@
         android:title="@string/hz_maintainer_team" />
 
         <Preference
+            android:title="@string/hz_about_hirokixd"
+            android:summary="@string/hz_about_hirokixd_summary"
+            android:icon="@drawable/hirokixd"
+            settings:layout="@layout/hz_about">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="https://t.me/Hirokixd28" />
+        </Preference>
+
+        <Preference
+            android:title="@string/hz_about_unmoved"
+            android:summary="@string/hz_about_unmoved_summary"
+            android:icon="@drawable/unmoved"
+            settings:layout="@layout/hz_about">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="https://t.me/unmoved21" />
+        </Preference>
+
+        <Preference
             android:title="@string/hz_about_ido"
             android:summary="@string/hz_about_ido_summary"
             android:icon="@drawable/ido"
@@ -97,6 +177,16 @@
             <intent
                 android:action="android.intent.action.VIEW"
                 android:data="https://t.me/rthedream" />
+        </Preference>
+
+        <Preference
+            android:title="@string/hz_about_hklknz"
+            android:summary="@string/hz_about_hklknz_summary"
+            android:icon="@drawable/hklknz"
+            settings:layout="@layout/hz_about">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="t.me/hklknz" />
         </Preference>
 
         <Preference

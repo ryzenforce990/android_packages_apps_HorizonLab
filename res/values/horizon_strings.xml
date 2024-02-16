@@ -54,24 +54,42 @@
     <string name="hz_telegram_summary">Join our community chat</string>
     <string name="hz_github_title" translatable="false">GitHub</string>
     <string name="hz_github_summary">Check out our GitHub</string>
-    <string name="hz_about_info_summary">HorizonDroid is a Custoom ROM with minimal usefull features.</string>
+    <string name="hz_about_info_summary">HorizonDroid is a custom ROM based on PixelOS, designed to provide users with a more personalized and feature-rich Android experience. It contains minimal, simple features, and customizations that you can use.</string>
 
     <!-- About Develover -->
     <string name="hz_about_dev">Developer</string>
+    <string name="hz_about_superxorn" translatable="false">SuperXorn</string>
+    <string name="hz_about_superxorn_summary">Lead Developer Project</string>
+    <string name="hz_about_steve" translatable="false">Steven スティーブン</string>
+    <string name="hz_about_steve_summary">Desain UI/UX Project</string>
+    <string name="hz_about_jyr" translatable="false">Jyr</string>
+    <string name="hz_about_jyr_summary">Co Lead Developer Project</string>
+    <string name="hz_about_komaru" translatable="false">Komaru</string>
+    <string name="hz_about_komaru_summary">Manager Project</string>
     <string name="hz_about_kizziama" translatable="false">Kizziama</string>
-    <string name="hz_about_kizziama_summary">Core Developer</string>
+    <string name="hz_about_kizziama_summary">Core Developer Project</string>
+    <string name="hz_about_dblenk" translatable="false">Dblenk</string>
+    <string name="hz_about_dblenk_summary">Core Developer Project</string>
     <string name="hz_about_hefatss" translatable="false">Hefatss</string>
-    <string name="hz_about_hefatss_summary">Core Developer | Redmi Note 12 NFC Maintainer</string>
+    <string name="hz_about_hefatss_summary">Core Developer Project | Redmi Note 12 NFC Maintainer</string>
 
     <!-- About Designer -->
     <string name="hz_about_design">Designer</string>
+    <string name="hz_about_zamkara" translatable="false">zamkara</string>
+    <string name="hz_about_zamkara_summary">Designer</string>
     <string name="hz_about_binzet" translatable="false">Binzet</string>
     <string name="hz_about_binzet_summary">Designer</string>
 
     <!-- About Maintainer -->
     <string name="hz_maintainer_team">Maintainers</string>
+    <string name="hz_about_hirokixd" translatable="false">Hirokixd</string>
+    <string name="hz_about_hirokixd_summary">Asus Zenfone Max M2 / X01AD</string>
+    <string name="hz_about_unmoved" translatable="false">UnmoveD</string>
+    <string name="hz_about_unmoved_summary">Redmi Note 10 Pro / Sweet</string>
     <string name="hz_about_ido" translatable="false">Ido</string>
     <string name="hz_about_ido_summary">Redmi Note 10s / Rosemary</string>
+    <string name="hz_about_hklknz" translatable="false">Hklknz</string>
+    <string name="hz_about_hklknz_summary">Poco F1 / Beryllium</string>
     <string name="hz_about_dropto" translatable="false">Dr.Opto</string>
     <string name="hz_about_dropto_summary">Redmi Note 12 5G / Poco x5 5G /Redmi Note 12R | stone</string>
 

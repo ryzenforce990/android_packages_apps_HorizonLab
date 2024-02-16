@@ -22,7 +22,7 @@
         android:summary="@string/settings_dashboard_style_summary"
         android:entries="@array/settings_dashboard_style_entries"
         android:entryValues="@array/settings_dashboard_style_values"
-        android:defaultValue="0" />
+        android:defaultValue="1" />
 
     <com.android.settings.custom.preference.SecureSettingSwitchPreference
         android:key="system_black_theme"

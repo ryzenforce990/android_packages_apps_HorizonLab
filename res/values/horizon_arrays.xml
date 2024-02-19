@@ -35,6 +35,7 @@
     <item>@string/status_bar_battery_style_icon_landscape_style_b</item>
     <item>@string/status_bar_battery_style_icon_landscape_ios15</item>
     <item>@string/status_bar_battery_style_icon_landscape_ios16</item>
+    <item>@string/status_bar_battery_style_icon_landscape_origami</item>
 </string-array>
 
 <string-array name="status_bar_battery_style_values" translatable="false">
@@ -59,6 +60,7 @@
     <item>18</item>
     <item>19</item>
     <item>20</item>
+    <item>21</item>
 </string-array>
 
 <string-array name="status_bar_battery_percent_entries">
@@ -99,6 +101,7 @@
     <item>@string/status_bar_battery_style_icon_landscape_style_b</item>
     <item>@string/status_bar_battery_style_icon_landscape_ios15</item>
     <item>@string/status_bar_battery_style_icon_landscape_ios16</item>
+    <item>@string/status_bar_battery_style_icon_landscape_origami</item>
 </string-array>
 
 <string-array name="qs_battery_style_values" translatable="false">
@@ -124,6 +127,7 @@
     <item>18</item>
     <item>19</item>
     <item>20</item>
+    <item>21</item>
 </string-array>
 
 </resources>
